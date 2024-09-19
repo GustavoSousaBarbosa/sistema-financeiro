@@ -35,3 +35,17 @@ body{
     margin-top: 100px;
 
 }
+
+#bloco-login {
+    margin-top: 25px;
+}
+
+.col {
+    margin: 250px;
+    box-shadow: 1px 1px 10px 3px black;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+    /* padding: 5px; */
+}
